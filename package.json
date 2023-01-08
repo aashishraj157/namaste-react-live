@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "react web app for practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aashish Raj Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead"
+    ],
+    "development": [
+      ">0.2%",
+      "not dead"
+    ]
+  }
+}
